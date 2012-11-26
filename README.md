@@ -20,3 +20,4 @@ Premiers jets :
 ## Inspiration
 
 * [Chicken/Chicken](http://www.youtube.com/watch?v=yL_-1d9OSdk) - vidéo
+* http://boringconference.com/ - Typiquement British.
