@@ -17,7 +17,7 @@ Premiers jets :
 * Chaque conférencier doit utiliser les slides d'un autre pour faire sa présentation (idée de @avernois)
 * Faire une conf en alexandrins
 * Conf battle : bataille entre conférenciers slide par slide sur le modèle des [iPod battles](http://fr.wikipedia.org/wiki/Ipod_battle)
-
+* BingoConf : on fournit à l'orateur une liste de mots improbables qu'il doit caser de façon naturelle. Le public doit les découvrir.
 
 ## Inspiration
 
