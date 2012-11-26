@@ -16,6 +16,7 @@ Premiers jets :
 * Les organisateurs imposent des titres, que les conférenciers choisissent soit au hasard, soit volontairement,
 * Chaque conférencier doit utiliser les slides d'un autre pour faire sa présentation (idée de @avernois)
 * Faire une conf en alexandrins
+* Conf battle : bataille entre conférenciers slide par slide sur le modèle des [iPod battles](http://fr.wikipedia.org/wiki/Ipod_battle)
 
 
 ## Inspiration
