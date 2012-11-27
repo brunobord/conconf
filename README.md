@@ -23,3 +23,4 @@ Premiers jets :
 
 * [Chicken/Chicken](http://www.youtube.com/watch?v=yL_-1d9OSdk) - vidéo
 * http://boringconference.com/ - Typiquement British.
+* [Pecha-Kucha](http://www.pecha-kucha.org/) 20 diapos qui sont affichées durant 20 secondes, défilant en automatique.
