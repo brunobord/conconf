@@ -20,7 +20,10 @@ Premiers jets :
 * BingoConf : on fournit à l'orateur une liste de mots improbables qu'il doit caser de façon naturelle. Le public doit les découvrir.
 * un combo Schtroumph ET alexandrins
 * Le conférencier choisit un participant dans la salle pour faire la présentation avec lui (le conférencier n'a, bien sûr, pas parlé du contenu de sa prés à quiconque)
-* Une conf muette, uniquement en gestuelle et slides sympa
+* Une conf muette, uniquement en gestuelle et slides sympa (un support musical est possible)
+* Au moins 2 conférenciers font la présentation en canon
+* "Conf Drinking Game" : les participants boivent à chaque fois que... (liste à définir)
+* Un combo "Conf Drinking Game" avec la BingoConf : les participants boivent à chaque fois que l'orateur dit un des mots de la liste
 
 ## Inspiration
 
