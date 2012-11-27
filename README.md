@@ -18,6 +18,9 @@ Premiers jets :
 * Faire une conf en alexandrins
 * Conf battle : bataille entre conférenciers slide par slide sur le modèle des [iPod battles](http://fr.wikipedia.org/wiki/Ipod_battle)
 * BingoConf : on fournit à l'orateur une liste de mots improbables qu'il doit caser de façon naturelle. Le public doit les découvrir.
+* un combo Schtroumph ET alexandrins
+* Le conférencier choisit un participant dans la salle pour faire la présentation avec lui (le conférencier n'a, bien sûr, pas parlé du contenu de sa prés à quiconque)
+* Une conf muette, uniquement en gestuelle et slides sympa
 
 ## Inspiration
 
