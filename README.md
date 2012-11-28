@@ -18,7 +18,7 @@ Premiers jets :
 * **Hugo 2.0** Faire une conf en alexandrins
 * **Conf battle** : bataille entre conférenciers slide par slide sur le modèle des [iPod battles](http://fr.wikipedia.org/wiki/Ipod_battle)
 * **BingoConf** : on fournit à l'orateur une liste de mots improbables qu'il doit caser de façon naturelle. Le public doit les découvrir.
-* un combo Schtroumph ET alexandrins
+* un Combo **Schtroumph + alexandrins**
 * **Le témoin** : Le conférencier choisit un participant dans la salle pour faire la présentation avec lui (le conférencier n'a, bien sûr, pas parlé du contenu de sa prés à quiconque)
 * **Cons de mime** ! Une conf muette, uniquement en gestuelle et slides sympa (un support musical est possible)
 * **Canon** : Au moins 2 conférenciers font la présentation en canon
