@@ -26,9 +26,11 @@ Premiers jets :
 * Combo **Drinking Game + BingoConf** : les participants boivent à chaque fois que l'orateur dit un des mots de la liste
 * **Un mot pour un autre** : un mot tabou ne peut pas être prononcé et remplacé par un autre chaque fois qu'il est supposé être prononcé.
 * **Version Originale** : les mots anglais sont bannis.
+* **Conférence gesticulée** un compromis entre le théatre et le talk
 
 ## Inspiration
 
 * [Chicken/Chicken](http://www.youtube.com/watch?v=yL_-1d9OSdk) - vidéo
 * http://boringconference.com/ - Typiquement British.
 * [Pecha-Kucha](http://www.pecha-kucha.org/) 20 diapos qui sont affichées durant 20 secondes, défilant en automatique.
+* [conférence gesticulée](http://www.scoplepave.org/patience%20conference.php)
