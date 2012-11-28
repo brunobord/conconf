@@ -25,6 +25,7 @@ Premiers jets :
 * **Drinking Game** : les participants boivent à chaque fois que... (liste à définir)
 * Combo **Drinking Game + BingoConf** : les participants boivent à chaque fois que l'orateur dit un des mots de la liste
 * **Un mot pour un autre** : un mot tabou ne peut pas être prononcé et remplacé par un autre chaque fois qu'il est supposé être prononcé.
+* **Harpo Marx** (variante de la précédente) : un ou plusieurs mots sont remplacés par un son (genre un pouët)
 * **Version Originale** : les mots anglais sont bannis.
 * **Conférence gesticulée** un compromis entre le théatre et le talk
 
