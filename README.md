@@ -28,6 +28,7 @@ Premiers jets :
 * **Harpo Marx** (variante de la précédente) : un ou plusieurs mots sont remplacés par un son (genre un pouët)
 * **Version Originale** : les mots anglais sont bannis.
 * **Conférence gesticulée** un compromis entre le théatre et le talk
+* **Karaoke Conf** vue sur [le blog technique de M6Web](http://tech.m6web.fr/organiser-des-conferences-technique-en-interne) “ Entre 5 et 10 volontaires font une présentation tour à tour, sur une série de 5 slides qu'ils n'ont jamais vus, dont chaque slide défile toutes les 15 secondes. Le thème est libre et est improvisé en fonction des slides !”
 
 ## Inspiration
 
