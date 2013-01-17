@@ -36,3 +36,4 @@ Premiers jets :
 * http://boringconference.com/ - Typiquement British.
 * [Pecha-Kucha](http://www.pecha-kucha.org/) 20 diapos qui sont affichées durant 20 secondes, défilant en automatique.
 * [conférence gesticulée](http://www.scoplepave.org/patience%20conference.php)
+* Un [numéro spécial de Best Practices SI](http://gestionpaiegrhquichoisir.com/2013/01/si-toi-aussi-tu-bosses-dans-lit-et-le-si-viens-rire-avec-nous-pour-une-fois/#axzz2IEwua19v). Y'a même un jeu de l'Oie. [Le PDF du magazine est là](http://www.bestpractices-si.fr/pdf/BP-Nsans-RP.pdf)
