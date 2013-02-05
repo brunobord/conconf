@@ -29,6 +29,21 @@ Premiers jets :
 * **Version Originale** : les mots anglais sont bannis.
 * **Conférence gesticulée** un compromis entre le théatre et le talk
 * **Karaoke Conf** vue sur [le blog technique de M6Web](http://tech.m6web.fr/organiser-des-conferences-technique-en-interne) “ Entre 5 et 10 volontaires font une présentation tour à tour, sur une série de 5 slides qu'ils n'ont jamais vus, dont chaque slide défile toutes les 15 secondes. Le thème est libre et est improvisé en fonction des slides !”
+* **RecordedConf** : Les conférences sont pré-enregistrées
+  * Maîtrise du temps
+  * Bonne qualité des enregistrements
+  * Avoir des orateurs ne pouvant se déplacer à la date de l'évènement
+  * Moins de pression pour les orateurs ?
+  * Pouvoir suivre les conférences qu'on veut dans l'ordre qu'on veut
+  * Écologique : transports, déchets, ...
+  * Économique
+  * Peut se tenir dans plusieurs villes simultanément
+  * Accessibilité accrue
+  * Traduction de meilleur qualité qu'en temps réel
+  * On passe les ateliers en local (avec du cloud9 + mumble par exemple)
+  * Sans doute moins convivial si il n'y a pas de regroupements locaux
+  * Techniquement plus compliqué : il faut tenir la charge si ça a du succès
+  * Il faut un nom plus avenant
 
 ## Inspiration
 
