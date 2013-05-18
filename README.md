@@ -44,6 +44,9 @@ Premiers jets :
   * Sans doute moins convivial si il n'y a pas de regroupements locaux
   * Techniquement plus compliqué : il faut tenir la charge si ça a du succès
   * Il faut un nom plus avenant
+* **Dé de 20** : après chaque slide, le conférencier lance un dé de 6/20/100 pour savoir s'il a le droit de continuer sa conf, s'il a un malus (moins 5mn, plus de micro) ou un bonus (+ 5mn, autres...
+* **Jeu de l'oie** : après chaque slide, le conférencier joue sur un plateau de jeu de l'oie qui lui donne les directives pour la suite (revenir de 2 slides en arrière, rester sur place, avancer de 4 slides, etc.)
+* **C'est pas faux** : à la manière de Caradoc et Perceval, il faut remplacer certains mots par des approximations (redondant pour contondant, etc.)
 
 ## Inspiration
 
